@@ -60,6 +60,11 @@ To overcome these challenges, I:
 - Dynamic Visualizations
 
 ---
+## 📷 Dashboard Preview
+
+![Finance Dashboard](Dashboard1.png)
+
+---
 
 ## 📚 Skills Demonstrated
 
